@@ -1,0 +1,13 @@
+{
+  "name": "com.nicoplvtools.uishapeskit",
+  "displayName": "UI Shapes Kit",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "description": "Procedural shapes for Unity UI. Original repo by ThisOtherThing",
+  "dependencies": {
+  },
+  "repository": {
+    "url": "https://github.com/nicoplv/ui-shapes-kit.git",
+    "type": "git"
+  }
+}
